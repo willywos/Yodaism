@@ -1,4 +1,3 @@
-
 Yodaism
 ============
 
@@ -6,6 +5,10 @@ Yodaism
 
 Ever need a quick quote from Yoda? Maybe you just need him to give you some quick advice. 
 Yodaism is a collection of quotes and some ascii porn to get your Yoda fix.
+
+### Requirements
+
+Ruby >= 1.9.2
 
 ### Install
 
