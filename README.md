@@ -1,6 +1,8 @@
 Yodaism
 ============
 
+![yodaism](http://imgur.com/5hBdY)
+
 ### Desc
 
 Ever need a quick quote from Yoda? Maybe you just need him to give you some quick advice. 
