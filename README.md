@@ -1,0 +1,30 @@
+
+Yodaism
+============
+
+### Desc
+
+Ever need a quick quote from Yoda? Maybe you just need him to give you some quick advice. 
+Yodaism is a collection of quotes and some ascii porn to get your Yoda fix.
+
+### Install
+
+`gem install yodaism`
+
+
+### How-to
+
+There is really only two modes right now for it.
+
+1. To get just a plain quote just execute the gem with no options
+
+`yodaism`
+
+2. To get a picture of yoda in ascii pron format
+
+`yodaism ascii`
+
+
+That's all there is, very simple.
+
+
