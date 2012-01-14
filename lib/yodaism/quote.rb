@@ -12,11 +12,12 @@ module Yodaism
     def random
       r = Random.new
       c = r.rand(0..@quotes.size - 1)  
-      split_quote_text @quotes[c].strip
+      @quotes[c].strip
+      #split_quote_text @quotes[c].strip
     end
 
     def ascii
-      quote_with_yoda random
+      quote_with_yoda(split_quote_text(random))
     end
 
     def quote_with_yoda(yoda_quote)
