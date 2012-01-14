@@ -1,11 +1,18 @@
 module Yodaism
   class Config
-    FILE = "lib/yodaism/quotes/quotes.txt"
+    file_path = File.expand_path(File.dirname(__FILE__))
+    FILE = "#{file_path}/quotes/quotes.txt"
+    
     attr_reader :quotes
 
     def initialize
       @quotes = {}
-      File.exists?(file) ? load_quotes_from_file : exit(1)
+      File.exists?(file) ? load_quotes_from_file : file_not_found
+    end
+    
+    def file_not_found
+      puts "could not find file in path #{FILE}"
+      exit(1)
     end
 
     def load_quotes_from_file
