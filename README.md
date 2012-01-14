@@ -21,11 +21,17 @@ There is really only two modes right now for it.
 
 To get just a plain quote just execute the gem with no options
 
-`yodaism`
+```bash
+[~/yoda]$ yodaism
+..........
+```
 
-To get a picture of yoda in ascii pron format
+To get a picture of yoda in ascii format
 
-`yodaism ascii`
+```bash
+[~/yoda]$ yodaism ascii
+..........
+```
 
 
 ![picture alt](http://i.imgur.com/5hBdY.png "Yodaism")
