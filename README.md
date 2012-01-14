@@ -1,7 +1,7 @@
 Yodaism
 ============
 
-![yodaism](http://imgur.com/5hBdY)
+![picture alt](http://i.imgur.com/5hBdY.png "Yodaism")     
 
 ### Desc
 
