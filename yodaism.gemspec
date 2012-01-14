@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Yodaism::VERSION
   s.authors     = ["willywos"]
   s.email       = ["wwilimek@gmail.com"]
-  s.homepage    = "http://www.github.com/willywos"
+  s.homepage    = "https://github.com/willywos/Yodaism"
   s.summary     = %q{Yodaism is about all things Yoda}
   s.description = %q{Ever need a quick quote from Yoda?
                      Maybe you just need him to give you some quick advice.
