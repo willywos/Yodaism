@@ -16,11 +16,11 @@ Yodaism is a collection of quotes and some ascii porn to get your Yoda fix.
 
 There is really only two modes right now for it.
 
-- To get just a plain quote just execute the gem with no options
+To get just a plain quote just execute the gem with no options
 
 `yodaism`
 
-- To get a picture of yoda in ascii pron format
+To get a picture of yoda in ascii pron format
 
 `yodaism ascii`
 
