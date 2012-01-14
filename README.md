@@ -34,4 +34,35 @@ To get a picture of yoda in ascii pron format
 That's all there is, very simple.
 
 
+### Use it in your script
+
+```ruby
+require 'yodaism'
+
+class YodaQuote
+    include Yodaism
+
+    attr_accessor :yoda_quote
+
+    def initialize
+      @yoda_quote = Yodaism.quote
+    end
+
+    def random
+      @yoda_quote.random
+    end
+
+    def ascii 
+      @yoda_quote.ascii
+    end
+end
+
+example = YodaQuote.new
+puts example.ascii
+puts example.random
+```
+
+
+
+
 
