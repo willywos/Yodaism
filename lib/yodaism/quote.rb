@@ -13,7 +13,6 @@ module Yodaism
       r = Random.new
       c = r.rand(0..@quotes.size - 1)  
       @quotes[c].strip
-      #split_quote_text @quotes[c].strip
     end
 
     def ascii
