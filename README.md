@@ -1,8 +1,6 @@
 Yodaism
 ============
-
-![picture alt](http://i.imgur.com/5hBdY.png "Yodaism")     
-
+    
 ### Desc
 
 Ever need a quick quote from Yoda? Maybe you just need him to give you some quick advice. 
@@ -30,6 +28,10 @@ To get a picture of yoda in ascii pron format
 `yodaism ascii`
 
 
+![picture alt](http://i.imgur.com/5hBdY.png "Yodaism")
+
+
 That's all there is, very simple.
+
 
 
