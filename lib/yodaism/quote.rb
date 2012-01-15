@@ -16,6 +16,7 @@ module Yodaism
     end
 
     def ascii
+      @@quote_array = Array.new
       quote_with_yoda(split_quote_text(random))
     end
 
